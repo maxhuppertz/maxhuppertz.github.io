@@ -9,3 +9,7 @@ Rome wasn't built in a day. While you're waiting, why don't you go read [the pap
 
 [shs_paper]: http://dx.doi.org/10.4419/86788759
 [rwi_homepage]: http://en.rwi-essen.de/
+
+<div class="footer">
+        &copy; 2017 Max Huppertz
+    </div>
