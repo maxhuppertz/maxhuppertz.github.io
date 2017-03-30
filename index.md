@@ -5,7 +5,7 @@
 &nbsp;
 ## Eventually, there'll be a web page here.
 
-Rome wasn't built in a day. While you're waiting, why don't you go read [the paper I co-authored][shs_paper] with Gunther Bensch, Michael Grimm, Jörg Langbein, and Jörg Peters while I was at [RWI Essen][rwi_homepage]?
+Rome wasn't built in a day. While you're waiting, maybe you'd like to read [the paper I co-authored][shs_paper] with Gunther Bensch, Michael Grimm, Jörg Langbein, and Jörg Peters while I was at [RWI Essen][rwi_homepage]?
 
 <sub>
 &copy; 2017 <a href="https://github.com/maxhuppertz/">Max Huppertz</a>
