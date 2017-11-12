@@ -5,7 +5,7 @@
 &nbsp;
 ## Eventually, there'll be a web page here.
 
-Trust me. It's basically almost already done. While you're waiting, maybe you'd like to read [the paper I co-authored][shs_paper] with Gunther Bensch, Michael Grimm, Jörg Langbein, and Jörg Peters while I was at [RWI Essen][rwi_homepage]?
+Trust me. It's basically almost already done.
 
 <sub>
 &copy; 2017 <a href="https://github.com/maxhuppertz/">Max Huppertz</a>
