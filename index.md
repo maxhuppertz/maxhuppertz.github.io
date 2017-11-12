@@ -1,4 +1,3 @@
-&nbsp;
 ## Eventually, there'll be a web page here.
 
 Trust me. It's basically almost already done.
