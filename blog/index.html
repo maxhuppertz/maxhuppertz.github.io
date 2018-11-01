@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!--- <h2>Blog</h2>
+ {% for post in site.posts %}
+	 <time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+{% endfor %} --->
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    <h2>{{ currentdate }}</h2>
+    {% assign date = currentdate %} 
+  {% endif %}
+  <ul>
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  </ul>
+{% endfor %}
+
+<sub><p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></sub>

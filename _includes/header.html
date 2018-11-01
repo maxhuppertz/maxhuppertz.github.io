@@ -1,0 +1,20 @@
+<aside>
+	<div class="container">
+		<div class="myname"><h1><a href="{{ site.url }}"><ribbon-h>Max Huppertz</ribbon-h></a></h1></div>
+		<nav>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}"><ribbon-h>{{ page.title }}</ribbon-h></a></li>
+				{% endif %} {% endfor %}
+				<!-- <li><a href="{{ "/blog" | prepend: site.baseurl }}"><ribbon-h>Blog</ribbon-h></a></li> -->
+				<li><a href="{{ "/assets/max_huppertz_cv_september-2018.pdf" }}"><ribbon-h>CV</ribbon-h></a></li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<!---
+<header>
+	<h1><a href="{{ site.title }}">{{ site.title }}</a></h1>
+</header>
+--->

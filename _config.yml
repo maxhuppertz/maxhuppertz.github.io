@@ -1,0 +1,17 @@
+# Site Settings
+title: Max Huppertz
+email: mhupp@umich.edu
+description: >
+  My personal research web page
+baseurl: ""
+url: "https://maxhuppertz.github.io/"
+twitter_username:	mxhupp
+github_username:	maxhuppertz
+linkedin_username:	max-huppertz-b037b0b9
+facebook_username:	max.huppertz.9
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
