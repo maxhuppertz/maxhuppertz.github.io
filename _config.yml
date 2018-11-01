@@ -1,8 +1,14 @@
 # Site Settings
 title: Max Huppertz
+<<<<<<< HEAD
 email: mhupp@umich.edu
 description: >
   My personal research web page
+=======
+email: max.huppertz@gmx.net
+description: >
+  A guide to getting started with Jekyll.
+>>>>>>> origin/master
 baseurl: ""
 url: "https://maxhuppertz.github.io/"
 twitter_username:	mxhupp
