@@ -4,7 +4,7 @@ title: Code
 permalink: /code/
 ---
 
-## Post-selection inference
+## Post-selection inference in Python
 I wrote a Python port, [available on GitHub][hdmpy_github]{:target="_blank"}, of parts of the excellent [R package hdm][hdm_cran]{:target="_blank"} by Victor Chernozhukov, Chris Hansen, and Martin Spindler. None of the theory or the original code are mine; all credit goes to the authors. All I did was port parts of it into Python and enable parallel processing. This makes the Python port much faster than the original R package for anything which involves simulations, for example data dependent penalty terms for robust LASSO.
 
 ## Linear models in Python
