@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Post-selection inference in Python
-I wrote a Python port, [available on GitHub][hdmpy_github]{:target="_blank"}, of parts of the excellent [R package `hdm`][hdm_cran]{:target="_blank"} by Victor Chernozhukov, Chris Hansen and Martin Spindler. None of the theory or the original code are mine; all credit goes to the authors. All I did was port parts of it into Python and enable parallel processing. This can make the Python port much faster than the original R package for anything which involves simulations, for example data dependent penalty terms for robust LASSO.
+I wrote a Python port, [available on GitHub][hdmpy_github], of parts of the excellent [R package `hdm`][hdm_cran] by Victor Chernozhukov, Chris Hansen and Martin Spindler. None of the theory or the original code are mine; all credit goes to the authors. All I did was port parts of it into Python and enable parallel processing. This can make the Python port much faster than the original R package for anything which involves simulations, for example data dependent penalty terms for robust LASSO.
 
 ## Linear models in Python
-I wrote a Python package, [available on GitHub][lmpy_github]{:target="_blank"}, to run linear models in Python. It is in many ways similar to (and will often miss functionality provided by) existing packages, such as [`statsmodels`][statsmodels]{:target="_blank"} or [`scikit-learn`'s linear regression][sklearn_linear_regression]{:target="_blank"}, but contains some additional capabilites, such as some bootstrap algorithms (e.g. the wild bootstrap with the ability to impose the null, and the cluster robust bootstrap from [Cameron, Gelbach, and Miller, 2008][cgm2008]{:target="_blank"}). It also contains the ability to drop variables based on their variance inflation factors, mostly to mirror functionality provided by STATA.
+I wrote a Python package, [available on GitHub][lmpy_github], to run linear models in Python. It is in many ways similar to (and will often miss functionality provided by) existing packages, such as [`statsmodels`][statsmodels] or [`scikit-learn`'s linear regression][sklearn_linear_regression], but contains some additional capabilites, such as some bootstrap algorithms (e.g. the wild bootstrap with the ability to impose the null, and the cluster robust bootstrap from [Cameron, Gelbach, and Miller, 2008][cgm2008]). It also contains the ability to drop variables based on their variance inflation factors, mostly to mirror functionality provided by STATA.
 
 ## Covariance matrices for `fastglm`
-I modified the R package [fastglm][fastglm_github]{:target="_blank"} by Jared Huling, adding a `vcov()` method to get the estimated covariance matrix of the coefficients. (The original package provides standard errors, but not the whole covariance matrix.) The code is [available on GitHub][fastglm_fork_github]{:target="_blank"}. You can install my port of the package using
+I modified the R package [fastglm][fastglm_github] by Jared Huling, adding a `vcov()` method to get the estimated covariance matrix of the coefficients. (The original package provides standard errors, but not the whole covariance matrix.) The code is [available on GitHub][fastglm_fork_github]. You can install my port of the package using
 ```r
 library(devtools)
 install_github("maxhuppertz/fastglm")

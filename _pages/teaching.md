@@ -10,16 +10,16 @@ author_profile: true
 ## Graduate student instructor
 
 | --- | --- |
-| Fall 2023 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_7]{:target="_blank"} |
-| Winter 2023 | [Econ 102 - Principles of economics II][102_course_guide_2]{:target="_blank"} |
-| Fall 2022 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_6]{:target="_blank"} |
-| Winter 2022 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_5]{:target="_blank"} |
-| Fall 2021 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_4]{:target="_blank"} |
-| Winter 2021 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_3]{:target="_blank"} |
-| Winter 2020 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_2]{:target="_blank"} |
-| Fall 2019 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_1]{:target="_blank"} |
-| Winter 2019 | [Econ 102 - Principles of economics II][102_course_guide_1]{:target="_blank"} |
-| Fall 2018 | [Econ 444 - The European economy][444_course_guide]{:target="_blank"} |
+| Fall 2023 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_7] |
+| Winter 2023 | [Econ 102 - Principles of economics II][102_course_guide_2] |
+| Fall 2022 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_6] |
+| Winter 2022 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_5] |
+| Fall 2021 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_4] |
+| Winter 2021 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_3] |
+| Winter 2020 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_2] |
+| Fall 2019 | [Econ 452 - Intermediate introduction to statistics and econometrics II][452_course_guide_1] |
+| Winter 2019 | [Econ 102 - Principles of economics II][102_course_guide_1] |
+| Fall 2018 | [Econ 444 - The European economy][444_course_guide] |
 
 [102_course_guide_1]: https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2220ECON102200&termArray=w_19_2220
 [102_course_guide_2]: https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2420ECON102100&termArray=w_23_2420
