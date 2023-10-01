@@ -37,7 +37,7 @@ Bergquist and Meredith Startz)
 
 Bensch, G., Grimm, M., Huppertz, M., Langbein, J., & Peters, J. (2017). Are promotion programs needed to establish off-grid solar energy markets? Evidence from rural Burkina Faso. *Renewable & Sustainable Energy Reviews, 90*, 1060-1068. doi: [10.1016/j.rser.2017.11.003][bghlp2017]{:target="_blank"}
 
-[jmp]: ../assets/max_huppertz_jmp.pdf
-[trade_network_changes]: ../assets/trade_network_changes.pdf
+[jmp]: ../files/max_huppertz_jmp.pdf
+[trade_network_changes]: ../files/trade_network_changes.pdf
 [trade_info_frictions_pedl]: https://pedl.cepr.org/publications/african-continental-integration-and-firm-awareness-trade-policy-evidence-kenyan-pilot
 [bghlp2017]: https://doi.org/10.1016/j.rser.2017.11.003
