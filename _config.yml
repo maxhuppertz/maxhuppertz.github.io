@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Max Huppertz"
   avatar           : "pp_crop.jpg"
-  bio              : "Development economist"
-  location         : #"Ann Arbor, MI"
-  employer         :
+  bio              : "PhD Candidate, Development Economics & Trade/IO"
+  location         : #"Ann Arbor, Michigan"
+  employer         : #"University of Michigan, Ann Arbor"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : mhupp@umich.edu
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
