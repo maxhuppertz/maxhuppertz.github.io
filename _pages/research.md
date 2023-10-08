@@ -13,7 +13,7 @@ author_profile: true
 
 ## Job market paper
 
-***Firm reactions to extreme weather and implications for climate change policy*** [[Latest version][jmp]]\
+***Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]]\
 Climate change and extreme weather events are a global problem, but especially affect poor countries, including firms in these countries. We know that weather shocks affect these firms through both a demand and supply channel. Depending on which channel dominates, short-run firm adjustments to the shocks differ, and understanding these adjustments can help in designing better policy to reduce the impact of climate change on poor countries. I combine firm-level World Bank data with high-resolution weather data to show that weather shocks are primarily supply shocks, affecting non-agricultural firms across sub-Saharan Africa and South Asia by reducing their productivity. I further show that firms react to these shocks by scaling back their expenditures on productive capability, hiring less machinery, less space and fewer non-production workers. These adjustments further reduce firm productivity. I develop a simple international trade model featuring hired productive capability that rationalizes my reduced form findings. Combining the model with machine learning estimates of the impact of climate change, I highlight the importance of productivity adjustments for policy design: Productivity responses make trade cost reductions 1.7 times more effective at countering welfare losses from climate change.
 
 ## Work in progress
