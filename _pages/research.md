@@ -13,7 +13,7 @@ author_profile: true
 
 ## Job market paper
 
-***Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]]\
+***Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
 Climate change and extreme weather events are a global problem but especially affect poor countries. To understand how non-agricultural firms in poor countries react to weather shocks, I combine firm-level data from sub-Saharan Africa and South Asia with high-resolution weather data. Using random year-to-year weather variation, I show that weather shocks reduce firm productivity. I then show that firms react to these shocks by scaling back their expenditures on productive capability, hiring less machinery, less office space and fewer non-production workers, which further reduces firm productivity. To quantify the aggregate implications of these firm reactions under climate change, I develop a simple international trade model that includes this channel. I combine the model with machine learning estimates of the impact of climate change to discipline counterfactual analyses. Counterfactuals show that productivity reactions make (i) policies aimed at larger firms and (ii) policies allowing firms to adapt to climate change especially effective at countering the negative impacts of climate change, compared to a model that ignores productivity reactions.
 
 ## Work in progress
@@ -39,6 +39,7 @@ Bergquist and Meredith Startz)
 Bensch, G., Grimm, M., Huppertz, M., Langbein, J., & Peters, J. (2017). Are promotion programs needed to establish off-grid solar energy markets? Evidence from rural Burkina Faso. *Renewable & Sustainable Energy Reviews, 90*, 1060-1068. doi: [10.1016/j.rser.2017.11.003][bghlp2017]
 
 [jmp]: ../files/max_huppertz_jmp.pdf
+[jmp_blog]: https://blogs.worldbank.org/impactevaluations/sacking-sales-staff-how-firms-poor-countries-deal-extreme-weather-guest-post-max
 [trade_network_changes]: ../files/trade_network_changes.pdf
 [trade_info_frictions_pedl]: https://pedl.cepr.org/publications/african-continental-integration-and-firm-awareness-trade-policy-evidence-kenyan-pilot
 [bghlp2017]: https://doi.org/10.1016/j.rser.2017.11.003
