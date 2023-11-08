@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in economics at the University of Michigan, Ann Arbor, and on the 2024 job market. My research focuses on economic development. I work on the impact of climate change on firms and trade, as well as the effect of information frictions on supply chains and consumer welfare. Much of my work combines rigorous reduced form methods with structural estimation to better understand the implications for the economy as a whole. I am a German citizen and considering positions globally, including in the US and Europe.
+I am a Ph.D. candidate in economics at the University of Michigan, Ann Arbor, and on the 2024 job market. My research focuses on economic development. I work on the impact of climate change on firms and trade, as well as the effect of information frictions on supply chains and consumer welfare. Much of my work combines rigorous reduced form methods with structural estimation to better understand the implications for the economy as a whole.
+
+I am a German citizen and considering positions globally, including in the US and Europe.
