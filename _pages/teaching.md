@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Read my [teaching statement][teaching_statement].
+
 ## Graduate student instructor
 
 | --- | --- |
@@ -21,6 +23,7 @@ author_profile: true
 | Winter 2019 | [Econ 102 - Principles of economics II][102_course_guide_1] |
 | Fall 2018 | [Econ 444 - The European economy][444_course_guide] |
 
+[teaching_statement]: ../files/teaching_statement.pdf
 [102_course_guide_1]: https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2220ECON102200&termArray=w_19_2220
 [102_course_guide_2]: https://www.lsa.umich.edu/cg/cg_detail.aspx?content=2420ECON102100&termArray=w_23_2420
 [444_course_guide]: http://www.lsa.umich.edu/cg/cg_detail.aspx?content=2210ECON444001&termArray=f_18_2210

@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Read my [research statement][research_statement].
+
 ## Job market paper
 
 ***Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
@@ -40,6 +42,7 @@ Bensch, G., Grimm, M., Huppertz, M., Langbein, J., & Peters, J. (2017). Are prom
 
 [jmp]: ../files/max_huppertz_jmp.pdf
 [jmp_blog]: https://blogs.worldbank.org/impactevaluations/sacking-sales-staff-how-firms-poor-countries-deal-extreme-weather-guest-post-max
+[research_statement]: ../files/research_statement.pdf
 [trade_network_changes]: ../files/trade_network_changes.pdf
 [trade_info_frictions_pedl]: https://pedl.cepr.org/publications/african-continental-integration-and-firm-awareness-trade-policy-evidence-kenyan-pilot
 [bghlp2017]: https://doi.org/10.1016/j.rser.2017.11.003
