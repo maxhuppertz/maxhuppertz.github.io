@@ -15,7 +15,7 @@ Read my [research statement][research_statement].
 
 ## Job market paper
 
-***Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
+***Sacking the sales staff: Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
 Climate change and extreme weather events are a global problem but especially affect poor countries. To understand how non-agricultural firms in poor countries react to weather shocks, I combine firm-level data from sub-Saharan Africa and South Asia with high-resolution weather data. Using random year-to-year weather variation, I show that weather shocks reduce firm productivity. I then show that firms react to these shocks by scaling back complementary expenditures on *productive capability* --- hiring less machinery, less office space and fewer non-production workers. This makes firms even less productive. To quantify the aggregate implications of productive capability reactions for climate change policy, I develop a simple international trade model that includes this mechanism. I combine the model with machine learning estimates of the impact of climate change to discipline counterfactual analyses. Counterfactuals show that productive capability reactions make (i) policies aimed at larger firms and (ii) policies allowing firms to adapt to climate change especially effective at countering the negative impacts of climate change, compared to a model that ignores these reactions.
 
 ## Work in progress
