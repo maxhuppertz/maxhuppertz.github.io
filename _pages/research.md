@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Read my [research statement][research_statement].
-
 ## Job market paper
 
 ***Sacking the sales staff: Firm reactions to extreme weather and implications for policy design*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\

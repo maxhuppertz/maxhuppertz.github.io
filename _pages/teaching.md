@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Read my [teaching statement][teaching_statement].
-
 ## Graduate student instructor
 
 | --- | --- |
