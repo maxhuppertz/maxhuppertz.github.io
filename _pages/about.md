@@ -13,4 +13,4 @@ My research focuses on economic development. I work on the impact of climate cha
 
 I will be joining the [Bank of England][boe] as a Research Economist in the fall.
 
-[boe]: ../files/max_huppertz_jmp.pdf
+[boe]: https://www.bankofengland.co.uk/
