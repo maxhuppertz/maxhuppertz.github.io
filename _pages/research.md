@@ -34,7 +34,7 @@ Bleakley)
 ***Quality, contracting, and competition in developing country supply chains*** (with Lauren Falcao
 Bergquist and Meredith Startz)
 
-***Sectoral specialization and climate resilience
+***Sectoral specialization and climate resilience***
 
 ## Publications
 
