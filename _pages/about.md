@@ -7,10 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on economic development. I work on the impact of climate change on firms and trade, as well as the effect of information frictions on supply chains and consumer welfare. I use reduced-form and machine learning methods to identify causal relationships combined with structural models from trade and IO to understand equilibrium and policy implications.
-
-**Fields**: Development Economics, Environmental Economics; Trade/Industrial Organization
-
-I will be joining the [Bank of England][boe] as a Research Economist in the fall.
-
-[boe]: https://www.bankofengland.co.uk/
+I am a Research Economist at the Bank of England. I study the impact of climate change on firms and trade. I have also worked on the effect of information frictions on supply chains. I use reduced-form and machine learning methods to identify causal relationships, and combine those with structural models to understand equilibrium and policy implications. I received my PhD from the University of Michigan in 2024.
