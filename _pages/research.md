@@ -13,7 +13,7 @@ author_profile: true
 
 ## Job market paper
 
-***Sacking the sales staff: Weather as a productivity shock, complementary input adjustments, and policy implications*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
+***Sacking the sales staff: Weather shocks to labor productivity, complementary input adjustments, and their climate policy implications*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]]\
 Climate change and extreme weather events are a global problem but especially affect poor countries. The effect on agriculture is well studied, but we know less about how non-agricultural firms cope with weather shocks and climate change. I combine firm-level information from sub-Saharan Africa and South Asia with high-resolution weather data to study how non-agricultural firms in poor countries respond to weather shocks in the short run. I show that weather shocks primarily affect these firms by reducing their labor productivity and that firms scale back expenditures on complementary inputs like rented machinery, rented space and non-production personnel in response. This further reduces effective labor productivity. To assess the general equilibrium and policy implications, I develop and estimate a structural model featuring these input adjustments. I combine the model with machine learning estimates of the impact of climate change to discipline climate change counterfactuals. I show that taking complementary input adjustments into account makes (i) policies benefiting larger firms and (ii) policies allowing firms to adapt to climate change more effective at reducing welfare losses from climate change.
 
 ## Work in progress
