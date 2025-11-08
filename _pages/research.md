@@ -17,7 +17,7 @@ author_profile: true
 Weather shocks reduce firms' labor productivity. I show that firms react by adjusting complementary inputs (e.g., rented capital or space and non-production personnel). This further decreases overall firm productivity. I use machine learning estimates of the impact of climate change and a structural model to highlight policy implications. Larger firms matter a lot in this context, and adaptation to climate change becomes more effective.
 
 ***Climate change increases bilateral trade cost*** [[Working paper][trade_network_changes]]\
-I show that decade to decade climate change over the last 200 years has increased trade cost. This is driven by ocean-based trade. The climate welfare impact through trade cost is about ten percent as large as its impact through productivity. We miss this when ignoring this channel. My methodology is easy to embed in any gravity-based trade model.
+I show that decade to decade climate change over the last 200 years has increased trade cost. This is driven by maritime trade. The climate welfare impact through trade cost is about ten percent as large as its impact through productivity. We miss this when ignoring this channel. My methodology is easy to embed in any gravity-based trade model.
 
 ***Optimal climate weights***
 
