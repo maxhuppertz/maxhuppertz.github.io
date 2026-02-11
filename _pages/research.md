@@ -16,7 +16,7 @@ author_profile: true
 ***Sacking the sales staff: Weather shocks to labor productivity, complementary input adjustments, and their climate policy implications*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]] [[David Dollar Memorial Prize winner 2025][ddp25]]\
 Weather shocks reduce firms' labor productivity. I show that firms react by adjusting complementary inputs (e.g., rented capital or space and non-production personnel). This further decreases overall firm productivity. I use machine learning estimates of the impact of climate change and a structural model to highlight policy implications. Larger firms matter a lot in this context, and adaptation to climate change becomes more effective.
 
-***Climate change increases bilateral trade cost*** [[Latest version][trade_network_changes]] [[Bank of England Staff Working Paper][trade_network_changes_swp]] [[CESifo Working Paper][trade_network_changes_ifo]]\
+***Climate change increases bilateral trade cost*** *(Submitted)* [[Latest version][trade_network_changes]] [[Bank of England Staff Working Paper][trade_network_changes_swp]] [[CESifo Working Paper][trade_network_changes_ifo]]\
 I show that decade to decade climate change over the last 200 years has increased trade cost. This is driven by maritime trade. The climate welfare impact through trade cost is about ten percent as large as its impact through productivity. We miss this when ignoring this channel. My methodology is easy to embed in any gravity-based trade model.
 
 ***Optimal climate weights***
