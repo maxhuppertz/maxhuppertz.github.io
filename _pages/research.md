@@ -19,13 +19,13 @@ Weather shocks reduce firms' labor productivity. I show that firms react by adju
 ***Climate change increases bilateral trade cost*** *(Submitted)* [[Latest version][trade_network_changes]] [[Bank of England Staff Working Paper][trade_network_changes_swp]] [[CESifo Working Paper][trade_network_changes_ifo]] [[Oberlin College Kasper Series Working Paper][trade_network_changes_oberlin]] [[Bank Underground blog][bu_blog]]\
 I show how gravity estimation can be used to estimate the impact of decade to decade climate change on trade cost. I find that it has increased them, driven by its impact on maritime trade. I then use the Eaton-Kortum model to show that ignoring this impacts leads to about a nine percent underestimate of the overall welfare effect of climate change. My methodology is easy to embed in any gravity-based trade model used in a climate context.
 
-***Understanding climate adaptation from movers***
+***Understanding climate adaptation from movers***\
 I show how international and domestic immigration shapes climate damage functions. This highlights that we can learn a lot about climate adaptation from people who move, in addition to more common approaches using cross-place variation in climate.
 
-***Using causal forests to estimate the impact of climate change***
+***Using causal forests to estimate the impact of climate change***\
 I show how causal forests can be used to estimate the impact of climate change on economic outcomes. This approach can take into account extremely rich weather variation and is well suited to projecting impacts far out of sample.
 
-***Climate weights and the estimated impact of climate change***
+***Climate weights and the estimated impact of climate change***\
 I reformulate the difference between global and local climate impacts as a weighting problem. This highlights that both approaches exist on a spectrum of estimation strategies that take more or less of the world's surface into account.
 
 ***Sectoral composition and climate resilience***
