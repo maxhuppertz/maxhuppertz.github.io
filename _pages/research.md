@@ -14,27 +14,34 @@ author_profile: true
 ## Work in progress
 
 ***Sacking the sales staff: Weather shocks to labor productivity, complementary input adjustments, and their climate policy implications*** [[Latest version][jmp]] [[World Bank Development Impact blog][jmp_blog]] [[David Dollar Memorial Prize winner 2025][ddp25]]\
-Weather shocks reduce firms' labor productivity. I show that firms react by adjusting complementary inputs (e.g., rented capital or space and non-production personnel). This further decreases overall firm productivity. I use machine learning estimates of the impact of climate change and a structural model to highlight policy implications. Larger firms matter a lot in this context, and adaptation to climate change becomes more effective.
+Weather shocks reduce firms' labor productivity. I show that firms react by adjusting complementary inputs (e.g., rented capital or space and non-production personnel). This further decreases overall firm productivity. I use machine learning estimates of the impact of climate change and a structural model to highlight policy implications. Policies that allow adaptation to climate change become more effective due to endogenous input responses.
 
 ***Climate change increases bilateral trade cost*** *(Submitted)* [[Latest version][trade_network_changes]] [[Bank of England Staff Working Paper][trade_network_changes_swp]] [[CESifo Working Paper][trade_network_changes_ifo]] [[Oberlin College Kasper Series Working Paper][trade_network_changes_oberlin]] [[Bank Underground blog][bu_blog]]\
-I use a gravity estimation to show that decade to decade climate change over the last 200 years has increased trade cost. This is driven by maritime trade. I then use the Eaton-Kortum model to show that ignoring this impacts leads to about a nine percent underestimate of the overall welfare effect of climate change. My methodology is easy to embed in any gravity-based trade model.
+I show how gravity estimation can be used to estimate the impact of decade to decade climate change on trade cost. I find that it has increased them, driven by its impact on maritime trade. I then use the Eaton-Kortum model to show that ignoring this impacts leads to about a nine percent underestimate of the overall welfare effect of climate change. My methodology is easy to embed in any gravity-based trade model used in a climate context.
 
-***Optimal climate weights***
+***Understanding climate adaptation from movers***
+I show how international and domestic immigration shapes climate damage functions. This highlights that we can learn a lot about climate adaptation from people who move, in addition to more common approaches using cross-place variation in climate.
+
+***Using causal forests to estimate the impact of climate change***
+I show how causal forests can be used to estimate the impact of climate change on economic outcomes. This approach can take into account extremely rich weather variation and is well suited to projecting impacts far out of sample.
+
+***Climate weights and the estimated impact of climate change***
+I reformulate the difference between global and local climate impacts as a weighting problem. This highlights that both approaches exist on a spectrum of estimation strategies that take more or less of the world's surface into account.
 
 ***Sectoral composition and climate resilience***
 
-***Information frictions, demand for quality, and welfare in the market for antimalarials*** (with Russell
+<!-- ***Information frictions, demand for quality, and welfare in the market for antimalarials*** (with Russell
 Morton) [[PEDL Grant][pedl_info_frictions]] [[NSF Grant][nsf_info_frictions]]\
-Though Nigeria sees a third of global malaria deaths, take-up of highest-quality antimalarials is relatively low. We study whether quality concerns affect take-up. Using an RCT providing quality information and a structural model, we can disentangle quality beliefs from true drug quality.
+Though Nigeria sees a third of global malaria deaths, take-up of highest-quality antimalarials is relatively low. We study whether quality concerns affect take-up. Using an RCT providing quality information and a structural model, we can disentangle quality beliefs from true drug quality. -->
 
-***Information frictions and firm behavior: Evidence from the African Continental Free Trade Area*** (with Yewande Olapade and Socrates Majune) [[Summary of pilot results][trade_info_frictions_pedl]]\
-Many firms are unaware of the AfCFTA. We design an information intervention to study whether awareness of lower tariff rates improves take-up of the AfCFTA.
+<!-- ***Information frictions and firm behavior: Evidence from the African Continental Free Trade Area*** (with Yewande Olapade and Socrates Majune) [[Summary of pilot results][trade_info_frictions_pedl]]\
+Many firms are unaware of the AfCFTA. We design an information intervention to study whether awareness of lower tariff rates improves take-up of the AfCFTA. -->
 
 ***The heterogeneous impacts of weather shocks on households in poor countries*** (with Hoyt
 Bleakley)
 
-***Quality, contracting, and competition in developing country supply chains*** (with Lauren Falcao
-Bergquist and Meredith Startz)
+<!-- ***Quality, contracting, and competition in developing country supply chains*** (with Lauren Falcao
+Bergquist and Meredith Startz) -->
 
 ## Publications
 
